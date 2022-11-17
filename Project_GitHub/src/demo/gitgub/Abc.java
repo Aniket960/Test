@@ -13,7 +13,9 @@ public class Abc {
 	public static void main(String[] args) {
 		System.out.println("GitHub Demo project");
 		Abc a= new Abc();
+		System.out.println("Start");
 		a.m1();
 		a.m2();
+		System.out.println("End");
 	}
 }
